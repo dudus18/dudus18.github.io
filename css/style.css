@@ -1,14 +1,19 @@
 p {
-    color: brown; font-size: 24px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+     font-size: 24px;
+   font-weight: 700;
+   text-align: justify;
+   text-transform: capitalize;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h1 {
-    color: blue; font-size: larger;
+    color: blue; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
     font-size: larger;
     font-weight: 600;
+    text-transform: initial;
 }
 
 img {height: 140px;
@@ -21,5 +26,6 @@ h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify;
     font-weight: 700;
-    t
+    text-transform: inherit;
+    
 }
